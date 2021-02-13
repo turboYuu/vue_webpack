@@ -1,7 +1,8 @@
 <template>
   <div id="app">
-    <img src="./assets/logo.png">
-    <HelloWorld/>
+    <img src="https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=3118799085,3545635564&fm=26&gp=0.jpg" alt="">
+    <!-- <img src="./assets/logo.png">
+    <HelloWorld/> -->
   </div>
 </template>
 
