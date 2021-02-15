@@ -5,6 +5,7 @@
     <h1>iPhone</h1>
     <h1>Mac</h1>
     <h1>IOS</h1>
+    <h1>Watch</h1>
     <!-- <img src="./assets/logo.png">
     <HelloWorld/> -->
   </div>
