@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <img src="https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=3118799085,3545635564&fm=26&gp=0.jpg" alt="">
-    <h1>less is more</h1>
+    <h1>LESS is MORE</h1>
     <h1>iPhone</h1>
     <h1>Mac</h1>
     <h1>IOS</h1>
